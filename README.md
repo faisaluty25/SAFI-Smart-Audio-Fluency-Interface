@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Features
+## 🎯 Features 
 
 - 🔊 **Speech-to-Text**: Uses OpenAI's Whisper to transcribe audio accurately.
 - ✂️ **Stutter Removal**: Applies smart regular expressions to clean repeated or stuttered words.
@@ -46,4 +46,5 @@
 > Note: `ffmpeg` must be installed and available in your system PATH.
 
 ---
+
 
